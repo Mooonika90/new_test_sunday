@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #c80dc8;
+  color: #c8c8f0;
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=style.css.map */
